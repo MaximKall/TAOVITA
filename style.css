@@ -98,14 +98,14 @@ body {
     opacity: 0.9;
   }
   .navbar li a, .navbar .navbar-brand { 
-    color: gray !important;
+        color: rgb(90, 90, 90) !important;
   }
   .navbar-nav li a:hover {
-    color: #fff !important;
+    color: black !important;
+    background-color: lightgray !important;
   }
   .navbar-nav li.active a {
     color: black !important;
-    background-color: #c6c6d6 !important;
   }
   .navbar-default .navbar-toggle {
     border-color: transparent;
