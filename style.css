@@ -105,7 +105,7 @@ body {
   }
   .navbar-nav li.active a {
     color: black !important;
-    background-color: #c6c6d6 !important;
+    background-color: #f6f6fa !important;
   }
   .navbar-default .navbar-toggle {
     border-color: transparent;
