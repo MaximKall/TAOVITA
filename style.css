@@ -137,3 +137,6 @@ footer a:hover {
 textarea {
   resize: none;
 }
+#myCarousel {
+  top: 50px;
+}
