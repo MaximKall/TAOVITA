@@ -140,3 +140,7 @@ textarea {
 #myCarousel {
   top: 50px;
 }
+
+p.info {
+  text-align: center;
+}
