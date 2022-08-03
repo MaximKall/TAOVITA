@@ -187,3 +187,12 @@ p.impressum {
   height: 400px;
   width: 400px;
 }
+
+.wrap {
+  background-color: darkgray;
+}
+
+.text-center {
+  background-color: white;
+  color: black;
+}
