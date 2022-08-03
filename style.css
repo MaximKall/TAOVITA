@@ -11,6 +11,7 @@ h4 {
 }
 .container {
   padding: 80px 120px;
+  padding-bottom: 0px;
 }
 .person {
   border: 10px solid transparent;
@@ -149,9 +150,9 @@ p.impressum {
   text-align: center;
 }
 
-.portrait {
+.Portrait {
   margin-left: auto;
   margin-right: auto;
-  height: 155px;
-  width: 155px;
+  height: 400px;
+  width: 400px;
 }
