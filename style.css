@@ -144,3 +144,12 @@ textarea {
 p.info {
   text-align: center;
 }
+
+p.impressum {
+  text-align: center;
+}
+
+.portrait {
+  margin-left: auto;
+  margin-right: auto;
+}
