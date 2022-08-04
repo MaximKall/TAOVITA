@@ -13,13 +13,13 @@ h4 {
 
 .container {
   padding: 80px 120px;
-  padding-bottom: 0px;
+  padding-bottom: 50px;
 }
 
 .person {
   border: 10px solid transparent;
-  width: 50vh;
-  margin-bottom: 10vh;
+  max-width: 80vw;
+  max-height: 70vh;
 }
 
 .person:hover {
@@ -188,4 +188,9 @@ a.impressum:hover {
   color: #777;
 }
 
-@media only screen and (max-width: 600px) {}
+@media only screen and (max-width: 600px) {
+  .container {
+    padding: 80px 30px;
+    padding-bottom: 30px;
+  }
+}
