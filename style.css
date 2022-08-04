@@ -187,3 +187,5 @@ a.impressum:hover {
   background-color: white;
   color: #777;
 }
+
+@media only screen and (max-width: 600px) {}
