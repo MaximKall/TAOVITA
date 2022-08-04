@@ -18,9 +18,8 @@ h4 {
 
 .person {
   border: 10px solid transparent;
-  margin-bottom: 25px;
-  width: 80%;
-  height: 80%;
+  width: 50vh;
+  margin-bottom: 10vh;
 }
 
 .person:hover {
@@ -115,13 +114,6 @@ h4,
   color: #777;
 }
 
-#googleMap {
-  width: 100%;
-  height: 400px;
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
-}
-
 .navbar {
   font-family: Montserrat, sans-serif;
   margin-bottom: 0;
@@ -177,22 +169,21 @@ p.info {
   text-align: center;
 }
 
-p.impressum {
+a.impressum {
   text-align: center;
+  color: #777;
+}
+
+a.impressum:hover {
+  color: black;
 }
 
 .Portrait {
   margin-left: auto;
   margin-right: auto;
-  height: 400px;
-  width: 400px;
 }
 
-.wrap {
-  background-color: darkgray;
-}
-
-.text-center {
+.footer {
   background-color: white;
-  color: black;
+  color: #777;
 }
